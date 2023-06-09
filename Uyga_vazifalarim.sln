@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funksiyalar", "Funksiyalar\Funksiyalar.csproj", "{888613AD-B9F3-462B-A237-6C14249A6750}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
