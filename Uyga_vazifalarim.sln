@@ -3,8 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop", "Loop\Loop.csproj", "{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}"
 EndProject
+<<<<<<< Updated upstream
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funksiyalar", "Funksiyalar\Funksiyalar.csproj", "{888613AD-B9F3-462B-A237-6C14249A6750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funksiyalar_2", "Funksiyalar_2\Funksiyalar_2.csproj", "{66B2E28F-8E3C-460B-BFEC-A3E665F1F360}"
+EndProject
+>>>>>>> Stashed changes
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,17 @@ Global
 		{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD24FEA-60BE-46F2-AD4A-25252FBAABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< Updated upstream
+=======
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888613AD-B9F3-462B-A237-6C14249A6750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B2E28F-8E3C-460B-BFEC-A3E665F1F360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B2E28F-8E3C-460B-BFEC-A3E665F1F360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B2E28F-8E3C-460B-BFEC-A3E665F1F360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B2E28F-8E3C-460B-BFEC-A3E665F1F360}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
