@@ -20,20 +20,30 @@ Ekrangachiqar("Salom");
 var array = new int[10];
 ArrayniToldir(array);
 */
-
+/*
 int summa(int a, int b)
 {
     return a + b;
 }
 Console.WriteLine(summa(3,4));
-
+*/
+/*
 void Salomlash(string ism="Shohjahon")
 {
     Console.WriteLine($"Salom {ism} ");
 }
 Salomlash();
+*/
 
+int Factorial(int n)
+{
+    if (n <= 1)
+        return 1;
+    else
+        return n * Factorial(n - 1);
 
+}
+Factorial(5);
 
 
 
