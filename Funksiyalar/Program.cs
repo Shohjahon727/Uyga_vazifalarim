@@ -34,7 +34,7 @@ void Salomlash(string ism="Shohjahon")
 }
 Salomlash();
 */
-
+/*
 int Factorial(int n)
 {
     if (n <= 1)
@@ -44,8 +44,9 @@ int Factorial(int n)
 
 }
 Factorial(5);
+*/
 
-
+Console.WriteLine();
 
 
 
