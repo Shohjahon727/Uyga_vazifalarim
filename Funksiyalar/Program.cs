@@ -26,3 +26,34 @@ int summa(int a, int b)
     return a + b;
 }
 Console.WriteLine(summa(3,4));
+
+void Salomlash(string ism="Shohjahon")
+{
+    Console.WriteLine($"Salom {ism} ");
+}
+Salomlash();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
