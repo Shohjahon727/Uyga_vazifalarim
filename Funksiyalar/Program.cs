@@ -1,11 +1,6 @@
-﻿//----------------Funksiyalar---------------
 
-/*void Ekrangachiqar(string paramet)
-{
-    Console.WriteLine(paramet);
-}
 
-Ekrangachiqar("salom"); 
+
 
 
 void ArrayniToldir(int[] array )
@@ -45,8 +40,6 @@ int Factorial(int n)
 }
 Factorial(5);
 */
-
-Console.WriteLine();
 
 
 
