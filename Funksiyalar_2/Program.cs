@@ -1,2 +1,34 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+void Salomlash()
+{
+    Console.WriteLine("Salom");
+}
+Salomlash();
+*/
+int Qoshish(int a, int b)
+{
+    int sum = a + b;
+    return sum;
+}
+int resul = Qoshish(5, 3);
+Console.WriteLine(resul);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
