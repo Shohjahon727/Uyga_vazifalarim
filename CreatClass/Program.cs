@@ -47,5 +47,5 @@ Console.WriteLine();
 
 //Console.WriteLine(beverage4.CalculateCalories());
 //beverage4.PrintAllInfo();
-Console.WriteLine();
+//Console.WriteLine();
 Console.ReadKey();
