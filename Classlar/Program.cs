@@ -77,16 +77,16 @@
 //}
 
 
-public class Laptop
-{
-    public string Name { get; set; } = null!;
-    public string BrandName { get; set; } = string.Empty;
+//public class Laptop
+//{
+//    public string Name { get; set; } = null!;
+//    public string BrandName { get; set; } = string.Empty;
 
-    public DateOnly RelaseDate { get; set; }
-    public decimal Price { get; set; }
-    public ELaptopType Type { get; set; } = ELaptopType.Gaming;
-     public double Weight { get; set; }
-    public Ram Ram { get; set; }
+//    public DateOnly RelaseDate { get; set; }
+//    public decimal Price { get; set; }
+//    public ELaptopType Type { get; set; } = ELaptopType.Gaming;
+//     public double Weight { get; set; }
+//    public Ram Ram { get; set; }
     //private int BackingField;
     //public int BackingFieldProparty
     //{
@@ -98,18 +98,21 @@ public class Laptop
     //}
 }
 
-public enum ELaptopType
-{
-    Gaming,
-    Office,
-    Home,
-}
+//public enum ELaptopType
+//{
+//    Gaming,
+//    Office,
+//    Home,
+//}
 
-public
-public static class Program
-{
-    public static void Main()
-    {
+//public
+//public static class Program
+//{
+//    public static void Main()
+//    {
 
-    }
-}
+//    }
+//}
+var Kitob = new Book("Calculs", "S.S.S", 300, "Ilmiy");
+Kitob.PrintInfo();
+Console.ReadKey();
